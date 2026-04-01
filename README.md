@@ -3,7 +3,7 @@
 SafeForge AI is a lightweight network threat detection web app that analyzes flow-based CSV traffic data and predicts whether traffic is benign or suspicious using a trained scikit-learn model.
 
 
-live : ..
+live : https://safeforge-ai.onrender.com
 
 docker image : https://hub.docker.com/r/mohdmusheer/safeforge-ai
 
