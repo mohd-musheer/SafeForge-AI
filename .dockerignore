@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+CNAME
+dataset/
+!dataset/README.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build/Dist
+build/
+dist/
+*.egg-info/
